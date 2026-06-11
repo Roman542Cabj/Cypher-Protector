@@ -5,8 +5,8 @@
 
 {
   "Scripts": {
-    "ScriptName": "ApiKey",
-    "ScriptName2": "ApiKey2"
+    "Cypher Anti Bat": "rqNHryuDfIFQaAqO",
+    "Cypher Flash TP": "lLJaSMGXixTdWzzz"
   },
 
   "StickySelectScript": { // When you switch scripts, if this is enabled, it will stay at that script. Otherwise, it'll choose the first script in

@@ -21,13 +21,13 @@
     "AllowedUsers": {
       "allowUsers": true, // If false, the bot won't check for user permissions and anyone can switch scripts.
       "Mode": "Whitelist", // "Whitelist" or "Blacklist"
-      "Users": ["UserID1", "UserID2"]
+      "Users": ["1460669078678278226", "1309329453159022603"]
     },
 
     "AllowedRoles": {
       "allowRoles": true, // If false, the bot won't check for role permissions and anyone can switch scripts.
       "Mode": "Whitelist", // "Whitelist" or "Blacklist"
-      "Roles": ["RoleID1", "RoleID2"]
+      "Roles": ["1476967441614508092", "1474190932487180474"]
     }
   }
 }
